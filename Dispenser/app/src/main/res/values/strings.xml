@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dispenser</string>
+    <string name="regarding">這是一款可以即時查看寵物飲水機的app，可以查看水質與溫濕度並記錄。</string>
+    <string name="regarding1">開發者:洪崇恩</string>
+</resources>
